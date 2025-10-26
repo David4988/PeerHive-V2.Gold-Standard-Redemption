@@ -44,6 +44,9 @@ This project leverages a combination of deep learning models and data processing
 * **Scikit-learn:** For model evaluation (Accuracy, F1-Score, Confusion Matrix).
 * **Matplotlib / Seaborn:** For generating evaluation plots and heatmaps.
 
+## Ppt - [Final ppt](https://docs.google.com/presentation/d/1tzBVQsPU5q9zK5zuK5FZOoNLeLdnMNi9/edit?usp=drive_link&ouid=100773914437128373863&rtpof=true&sd=true)
+## Video Demo - [PeerHive]()
+
 ## 🏁 Getting Started
 
 To get a local copy up and running, follow these simple steps.
@@ -108,4 +111,5 @@ Given the 1-week sprint constraint, this project has several limitations that pr
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
 
