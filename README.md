@@ -57,7 +57,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repo:**
     ```sh
-    git clone [https://github.com/david4988/PeerHive.git](https://github.com/david4988/PeerHive.git)
+    git clone https://github.com/David4988/PeerHive-V2.Gold-Standard-Redemption.git
     cd PeerHive
     ```
 
@@ -108,3 +108,4 @@ Given the 1-week sprint constraint, this project has several limitations that pr
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+
